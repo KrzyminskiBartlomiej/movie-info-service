@@ -3,6 +3,11 @@ package io.bkrzyminski.movieinfoservice;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
+/**
+ * Main initializer for Movie info service
+ *
+ * @author bkrzyminski
+ */
 @SpringBootApplication
 public class MovieInfoServiceApplication {
 
